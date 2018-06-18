@@ -1,0 +1,35 @@
+
+.Masthead {
+  height: 10%;
+
+}
+.site-container {
+  background-color: beige;
+  padding: 5%;
+  width: 50%;
+  margin-left: 20%;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+#search-keyword {
+  margin-left: 40%;
+
+}
+
+#submit-btn{
+  background-color: rgba(0, 0, 0, 0.116);
+  padding: 2%;
+  border-radius: 2%;
+  
+}
+
+.search-keyword {
+  border-radius: 2%;
+  
+}
+
+
